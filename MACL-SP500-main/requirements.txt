@@ -1,0 +1,11 @@
+# Allow libraries 
+numpy
+pandas
+matplotlib
+scikit-learn
+torch
+jax
+pytest>=3.0.7
+
+# Libaries for testing
+ipykernel
